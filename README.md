@@ -31,6 +31,6 @@ This project tested on macbook using the list of following softwares.
  6. To stop the container
   > docker ps
   
-  > docker stop <container id of springboot-docker>
+  > docker stop {container id of springboot-docker}
     
  
