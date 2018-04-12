@@ -16,6 +16,7 @@ This project tested on macbook using the list of following softwares.
     
    The above command will show list of images of Docker.
    
+   
   REPOSITORY                   TAG                  IMAGE ID            CREATED             SIZE
   springio/springboot-docker    latest                7b7bdce792b7        44 minutes ago      116MB
   openjdk                       8-jdk-alpine         224765a6bdbe        3 months ago        102MB
