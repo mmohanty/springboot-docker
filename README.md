@@ -7,7 +7,9 @@ This project tested on macbook using the list of following softwares.
  4. Spring boot 1.5.7
  
  1. Check whether docker has been installed properly on machine or not.
-   1.a: docker version
+ 
+     >docker version
+    
  1. Download project.
  2. Run
     >mvn install dockerfile:build
